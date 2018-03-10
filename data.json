@@ -1,0 +1,40 @@
+{
+  "basics":{
+    "photo":"penguins.jpg",
+    "name":"sanjana",
+    "phone":"9491394985",
+    "email":"yssanju21@gmail.com",
+    "Address":"(D/o)Venkanna,eluru,west godavari district,A.P"
+  },
+"education":[{
+  "course":"B.tech(computer science and engineering)",
+  "institute":"sir crr engg",
+  "data":["2015-2019","92%"]
+},
+  {
+    "course":"inter(mpc)",
+    "institute":"sri chaitanya",
+    "data":["2013-2015","97%"]
+  },
+  {
+    "course":"ssc",
+    "institute":"Bhashyam",
+    "data":["2012-2013","97%"]
+  }
+],
+"skills":[
+  {
+  "name":"languages",
+  "data":["c","JAVA","php"]
+},
+{
+  "name":"web technologies",
+  "data":["HTML","CSS","php"]
+},
+{
+  "name":"os",
+  "data":["windows","linux","unix"]
+}
+
+]
+}
